@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ramon Marques, @ramonmarqueslima
 - 👀 I’m interested in Mobile Developer.
 - 🌱 I’m currently learning iOS Apps.
-- 📫 How to reach me ramon_marques16@hotmail.com.
+- 📫 How to reach me linkedin.com/in/ramarqes or ramon_marques16@hotmail.com.
 
 <!---
 ramonmarqueslima/ramonmarqueslima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
