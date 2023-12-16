@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ramon Marques, @ramonmarqueslima
-- 👀 I’m interested in Mobile Development.
-- 🌱 I’m currently learning Mobile Apps.
+- 👀 I’m interested in Android Development.
+- 🌱 I’m currently learning Android Apps.
 - 📫 How to reach me https://linkedin.com/in/ramarqes
 
 <!---
