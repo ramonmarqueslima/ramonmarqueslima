@@ -2,7 +2,9 @@
 - 👀 I’m interested in Android Development.
 - 🌱 I’m currently learning Android Apps.
 - 📫 How to reach me https://linkedin.com/in/ramarqes
-![Google-will-replace-the-flat-Android-logo-with-a-three-dimensional](https://github.com/ramonmarqueslima/ramonmarqueslima/assets/140916877/10b82f01-0ba4-41c8-a622-1303598823d6)
+
+![Google-will-replace-the-flat-Android-logo-with-a-three-dimensional](https://github.com/ramonmarqueslima/ramonmarqueslima/assets/140916877/7785cfe9-e90b-4544-9dd9-3b3ddb226f89)
+
 
 <!---
 ramonmarqueslima/ramonmarqueslima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
